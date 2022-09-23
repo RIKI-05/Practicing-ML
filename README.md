@@ -4,3 +4,5 @@
 ===========================================================================================
 
 * ### Project - 1   [Ad sale prediction using logistic regression](https://github.com/RIKI-05/Practicing-ML/blob/main/Project%201%20Ad_sale_prediction_from_existing_customer_logistic_regression.ipynb)
+
+* ### Project - 2   [Salary Estimation using KNN](https://github.com/RIKI-05/Practicing-ML/blob/main/Salary_Estimation_KNN.ipynb)
