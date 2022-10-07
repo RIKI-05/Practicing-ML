@@ -8,3 +8,5 @@
 * ### Project - 2   [Salary Estimation using KNN](https://github.com/RIKI-05/Practicing-ML/blob/main/Salary_Estimation_KNN.ipynb)
 
 * ### Project - 3   [Handwritten Digits Recognition using SVM](https://github.com/RIKI-05/Practicing-ML/blob/main/Handwritten_digit_Recognition_SVM.ipynb)
+
+* ### Project - 4   [Titanic Survival Prediction using naive bayes](https://github.com/RIKI-05/Practicing-ML/blob/main/Handwritten_digit_Recognition_SVM.ipynb)
