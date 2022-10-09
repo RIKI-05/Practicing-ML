@@ -10,3 +10,9 @@
 * ### Project - 3   [Handwritten Digits Recognition using SVM](https://github.com/RIKI-05/Practicing-ML/blob/main/Handwritten_digit_Recognition_SVM.ipynb)
 
 * ### Project - 4   [Titanic Survival Prediction using naive bayes](https://github.com/RIKI-05/Practicing-ML/blob/main/Handwritten_digit_Recognition_SVM.ipynb)
+
+* ### Project - 5   [Leaf Species Detection using decision Tree](https://github.com/RIKI-05/Practicing-ML/blob/main/Project_5_LeafSpeciesDetection_using_decision_trees.ipynb)
+
+
+
+
