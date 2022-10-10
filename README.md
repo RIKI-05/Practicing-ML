@@ -13,6 +13,9 @@
 
 * ### Project - 5   [Leaf Species Detection using decision Tree](https://github.com/RIKI-05/Practicing-ML/blob/main/Project_5_LeafSpeciesDetection_using_decision_trees.ipynb)
 
+* ### Project - 6   [Digit_Recognition_using_random_forest](https://github.com/RIKI-05/Practicing-ML/blob/main/Project_6_Digit_Recognition_using_random_forest.ipynb)
+
+
 
 
 
