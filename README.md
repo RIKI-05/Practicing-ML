@@ -15,6 +15,9 @@
 
 * ### Project - 6   [Digit_Recognition_using_random_forest](https://github.com/RIKI-05/Practicing-ML/blob/main/Project_6_Digit_Recognition_using_random_forest.ipynb)
 
+* ### Project - 7   [Breast_Cancer_Detection_using_various_ML_Algorithms](https://github.com/RIKI-05/Practicing-ML/blob/main/Project_7_Breast_Cancer_Detection_using_various_ML_Algorithms.ipynb)
+
+
 
 
 
